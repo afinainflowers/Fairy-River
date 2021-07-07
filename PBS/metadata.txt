@@ -160,6 +160,12 @@ MapPosition = 0,14,6
 BattleBack = field
 MapSize = 2,1101
 #-------------------------------
+[032]
+# Star Village
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
 [034]
 # Ice Cave
 Bicycle = true
@@ -210,6 +216,12 @@ BicycleAlways = true
 MapPosition = 0,11,7
 MapSize = 1,111
 #-------------------------------
+[043]
+# Star farmroad
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
 [044]
 # Route 6
 Outdoor = true
@@ -239,6 +251,13 @@ MapPosition = 0,15,10
 BattleBack = rocky
 MapSize = 2,11
 Environment = Rock
+#-------------------------------
+[048]
+# Farm Plains
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 48,22,18
 #-------------------------------
 [049]
 # Rock Cave
