@@ -337,3 +337,16 @@ GoodRod
     30,TYMPOLE,6,8
     30,MARILL,7,10
     10,LOTAD,5,6
+#-------------------------------
+[048] # Farm Plains
+Land,21
+    20,SKIDDO,8,14
+    20,ODDISH,8,13
+    20,BUTTERFREE,10,13
+    10,BELLSPROUT,6,12
+    10,BUNEARY,8,12
+    9,DIGLETT,8,12
+    5,EXEGGCUTE,8,11
+    4,MUNCHLAX,6,12
+    1,PARAS,8,12
+    1,MEOWTH,12

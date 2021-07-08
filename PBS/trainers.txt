@@ -16,6 +16,11 @@ Pokemon = WEEDLE,8
     Gender = male
 Pokemon = MEOWTH,10
     Gender = female
+#-------------------------------
+[CAMPER,Lica]
+LoseText = "Ouch, I need to train them again..."
+Pokemon = ROCKRUFF,9
+Pokemon = LILLIPUP,9
 
 #-------------------------------
 [CAMPER,Liam]
