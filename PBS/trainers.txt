@@ -21,6 +21,21 @@ Pokemon = MEOWTH,10
 LoseText = "Ouch, I need to train them again..."
 Pokemon = ROCKRUFF,9
 Pokemon = LILLIPUP,9
+#-------------------------------
+[BUGCATCHER,Keen]
+Items = LEMONADE
+LoseText = "Ouch, aren't you powerful..."
+Pokemon = COMBEE,13
+Pokemon = SURSKIT,14
+Pokemon = SCIZOR,14
+#-------------------------------
+[BIRDKEEPER,Toby]
+Items = FRESHWATER
+LoseText = "Ouch. Time to test something new..."
+Pokemon = NOIBAT,14
+Pokemon = SPEAROW,16
+Pokemon = ZUBAT,16
+Pokemon = CORVISQUIRE,18
 
 #-------------------------------
 [CAMPER,Liam]

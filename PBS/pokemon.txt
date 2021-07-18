@@ -23592,7 +23592,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 32
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = TREVENANT,Trade,
+Evolutions = TREVENANT,Item,LEAFSTONE,
 #-------------------------------
 [709]
 Name = Trevenant
@@ -23659,7 +23659,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 33
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = GOURGEIST,Trade,
+Evolutions = GOURGEIST,Item,LEAFSTONE,
 #-------------------------------
 [711]
 Name = Gourgeist
