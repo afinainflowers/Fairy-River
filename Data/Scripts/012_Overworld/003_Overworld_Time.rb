@@ -47,7 +47,7 @@ module PBDayNight
   # Returns true if it's night.
   def self.isNight?(time=nil)
     time = pbGetTimeNow if !time
-    return (time.hour>=20 || time.hour<5)
+    return (time.hour>=20 || time.hour<5 || $game_map.map_id == '083')
   end
 
   # Returns true if it's morning.
