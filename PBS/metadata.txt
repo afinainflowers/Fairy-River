@@ -166,6 +166,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 HealingSpot = 32,11,13
+MapPosition = 0,14,3
 Environment = Grass
 #-------------------------------
 [034]
@@ -224,6 +225,8 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 Weather = Rain,10
+MapPosition = 0,14,6
+MapSize = 0,
 Environment = ForestGrass
 #-------------------------------
 [044]
@@ -262,6 +265,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 HealingSpot = 48,22,18
+MapPosition = 0,15,8
 #-------------------------------
 [049]
 # Rock Cave
@@ -421,6 +425,7 @@ ShowArea = true
 Bicycle = true
 HealingSpot = 78,32,14
 Weather = Sun,5
+MapPosition = 0,13,16
 #-------------------------------
 [080]
 # Butterfly Road
@@ -428,5 +433,22 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 Weather = Sun,50
+MapPosition = 0,15,12
 BattleBack = 
 Environment = Grass
+#-------------------------------
+[081]
+# Fairy Delta
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,10
+MapPosition = 0,18,16
+#-------------------------------
+[083]
+# Whisper Woods
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Fog,10
+MapPosition = 0,21,15

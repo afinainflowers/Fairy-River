@@ -36,6 +36,13 @@ Pokemon = NOIBAT,14
 Pokemon = SPEAROW,16
 Pokemon = ZUBAT,16
 Pokemon = CORVISQUIRE,18
+#-------------------------------
+[TEAMPLASMA_F,Lisa]
+Items = POTION,LEMONADE
+LoseText = "Grr. How could this happen?"
+Pokemon = FERROSEED,10
+Pokemon = PAWNIARD,10
+Pokemon = KLINK,12
 
 #-------------------------------
 [CAMPER,Liam]
