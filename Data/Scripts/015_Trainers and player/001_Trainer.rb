@@ -167,6 +167,11 @@ class Trainer
     @party.each { |pkmn| pkmn.heal }
   end
 
+  # Heal HP of all Pokémon in the party.
+  def heal_party_HP
+    @party.each { |pkmn| pkmn.heal_HP }
+  end
+
   #=============================================================================
 
   def initialize(name, trainer_type)

@@ -504,3 +504,92 @@ Backtrace:
 'SDK::Scene_Base' line 49 in `main'
 'Main' line 12
 
+===============================================================================
+Sat Jul 24 19:05:17 Финляндия (лето) 2021
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+'Collecting map data' on frame 56
+'Collecting map data' on frame 57
+'Collecting map data' on frame 58
+'Collecting map data' on frame 59
+'Collecting map data' on frame 60
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+'Drawing preview' on frame 6000
+Saving "Fairy Delta"
+'Saving "Fairy Delta"' on frame 0
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK::Scene_Base' line 110 in `update_modules'
+'SDK::Scene_Base' line 91 in `main_loop'
+'SDK::Scene_Base' line 47 in `main'
+'SDK::Scene_Base' line 46 in `loop'
+'SDK::Scene_Base' line 49 in `main'
+'Main' line 12
+
