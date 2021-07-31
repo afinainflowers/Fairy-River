@@ -44,23 +44,27 @@ Pokemon = FERROSEED,10
 Pokemon = PAWNIARD,10
 Pokemon = KLINK,12
 #-------------------------------
-[RIVAL1,Blue]
+[RIVAL1,Carn]
 LoseText = "Not too shabby."
-Pokemon = PIDGEOTTO,17
-Pokemon = RATTATA,15
-Pokemon = BULBASAUR,18
+Items = POTION
+Pokemon = RATTATA,12
+Pokemon = SEWADDLE,12
+    Item = ORANBERRY
+Pokemon = PIDGEY,14
+    Item = ORANBERRY
+Pokemon = MAREEP,14
+    Item = ORANBERRY
 #-------------------------------
-[RIVAL1,Blue,1]
+[RIVAL1,Carn,1]
+Items = POTION
 LoseText = "Not too shabby."
-Pokemon = PIDGEOTTO,17
-Pokemon = RATTATA,15
-Pokemon = CHARMANDER,18
-#-------------------------------
-[RIVAL1,Blue,2]
-LoseText = "Not too shabby."
-Pokemon = PIDGEOTTO,17
-Pokemon = RATTATA,15
-Pokemon = SQUIRTLE,18
+Pokemon = RATTATA,12
+Pokemon = SEWADDLE,12
+    Item = ORANBERRY
+Pokemon = PIDGEY,14
+    Item = ORANBERRY
+Pokemon = SHINX,14
+    Item = ORANBERRY
 
 #-------------------------------
 [CAMPER,Liam]

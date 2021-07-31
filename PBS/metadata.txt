@@ -435,6 +435,8 @@ Bicycle = true
 Weather = Sun,50
 MapPosition = 0,15,12
 BattleBack = 
+WildBattleBGM = DPPT 011 Battle! Wild Pokémon.ogg
+TrainerBattleBGM = Battle trainer.mid
 Environment = Grass
 #-------------------------------
 [081]
@@ -452,3 +454,8 @@ ShowArea = true
 Bicycle = true
 Weather = Fog,10
 MapPosition = 0,21,15
+Environment = Forest
+#-------------------------------
+[084]
+# Challenge Woods
+Environment = Forest
