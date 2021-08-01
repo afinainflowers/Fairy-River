@@ -65,6 +65,12 @@ Pokemon = PIDGEY,14
     Item = ORANBERRY
 Pokemon = SHINX,14
     Item = ORANBERRY
+#-------------------------------
+[AROMALADY,Lita]
+LoseText = "Wow, you got me..."
+Pokemon = ILLUMISE,15
+Pokemon = ROSELIA,14
+    Moves = POISONSTING,MAGICALLEAF,STUNSPORE,EXTRASENSORY
 
 #-------------------------------
 [CAMPER,Liam]
