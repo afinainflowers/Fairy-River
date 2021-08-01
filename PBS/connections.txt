@@ -38,15 +38,19 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone (66)
 69,North,0,66,South,10
-# Star Village (32) - Star farmroad (43)
-32,South,0,43,North,0
-# Farm Plains (48) - Star farmroad (43)
-48,West,0,43,East,48
-# Butterfly Road (80) - Farm Plains (48)
-80,North,3,48,South,0
+# Farm Plains (48) - Butterfly Road (80)
+48,South,0,80,North,3
 # Fairy Hill (78) - Butterfly Road (80)
 78,North,0,80,South,2
 # Fairy Delta (81) - Butterfly Road (80)
 81,West,0,80,East,8
+# Star farmroad (43) - Farm Plains (48)
+43,East,48,48,West,0
+# Star Village (32) - Star farmroad (43)
+32,South,0,43,North,0
 # Fairy Delta (81) - Fairy Hill (78)
 81,West,50,78,East,0
+# Whisper Woods (83) - Fairy Delta (81)
+83,West,0,81,East,30
+# Challenge Woods (84) - Whisper Woods (83)
+84,South,0,83,North,17

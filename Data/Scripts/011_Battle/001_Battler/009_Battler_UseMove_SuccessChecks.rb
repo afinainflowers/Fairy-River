@@ -237,7 +237,7 @@ class PokeBattle_Battler
       end
     end
     # Obedience check
-    return false if !pbObedienceCheck?(choice)
+    #return false if !pbObedienceCheck?(choice)
     # Truant
     if hasActiveAbility?(:TRUANT)
       @effects[PBEffects::Truant] = !@effects[PBEffects::Truant]

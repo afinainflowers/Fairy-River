@@ -27,7 +27,7 @@ Items = LEMONADE
 LoseText = "Ouch, aren't you powerful..."
 Pokemon = COMBEE,13
 Pokemon = SURSKIT,14
-Pokemon = SCIZOR,14
+Pokemon = SCYTHER,12
 #-------------------------------
 [BIRDKEEPER,Toby]
 Items = FRESHWATER
