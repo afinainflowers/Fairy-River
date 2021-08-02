@@ -71,6 +71,19 @@ LoseText = "Wow, you got me..."
 Pokemon = ILLUMISE,15
 Pokemon = ROSELIA,14
     Moves = POISONSTING,MAGICALLEAF,STUNSPORE,EXTRASENSORY
+#-------------------------------
+[TEAMPLASMA_F,Lisa,1]
+Items = POTION,LEMONADE
+LoseText = "Grr. Again? I trained them up!"
+Pokemon = FERROSEED,16
+Pokemon = PAWNIARD,16
+    Moves = FURYCUTTER,METALCLAW,LEER,BRICKBREAK
+#-------------------------------
+[TEAMPLASMA_M,Ren]
+Items = LEMONADE
+LoseText = "Did I just lose? Ouch,my pride..."
+Pokemon = CUBONE,16
+Pokemon = SCRAGGY,16
 
 #-------------------------------
 [CAMPER,Liam]
