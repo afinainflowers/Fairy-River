@@ -81,7 +81,7 @@ Pokemon = PAWNIARD,16
 #-------------------------------
 [TEAMPLASMA_M,Ren]
 Items = LEMONADE
-LoseText = "Did I just lose? Ouch,my pride..."
+LoseText = "Did I just lose? Ouch, my pride..."
 Pokemon = CUBONE,16
 Pokemon = SCRAGGY,16
 
