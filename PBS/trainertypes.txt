@@ -74,3 +74,4 @@
 71,CHAMPION,Champion,100,Battle Elite,Battle victory leader,,Male,,
 72,TEAMPLASMA_M,Frontier Defender,48,DPPT 043 Battle! Team Galactic,,,Male,,
 73,TEAMPLASMA_F,Frontier Defender,48,DPPT 043 Battle! Team Galactic,,,Female,,
+74,AURA_GUARDIAN,Aura Guardian,100,Battle Gym Leader,Battle victory leader,,Male,,

@@ -85,6 +85,44 @@ LoseText = "Did I just lose? Ouch, my pride..."
 Pokemon = CUBONE,16
 Pokemon = SCRAGGY,16
 
+
+#-------------------------------
+[AURA_GUARDIAN,Silvester]
+ITEMS = FULLRESTORE,FULLRESTORE
+LoseText = "Congratulations!"
+Pokemon = DRAGAPULT,50
+    Moves = THUNDER,SHADOWBALL,DRACOMETEOR,DRAGONDANCE
+    Item = AGUAVBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = UMBREON,50
+    Gender = male
+    Shiny = yes
+    Moves = TOXIC,MOONLIGHT,DARKPULSE,SHADOWBALL
+    Item = LEFTOVERS
+    IV = 20,20,20,20,20,20
+Pokemon = MANECTRIC,50
+    Gender = male
+    Moves = VOLTSWITCH,OVERHEAT,HIDDENPOWER,THUNDERBOLT
+    Item = LIFEORB
+    IV = 20,20,20,20,20,20
+Pokemon = SALAMENCE,50
+    Gender = male
+    Moves = DRAGONDANCE,OUTRAGE,FIREBLAST,AIRSLASH
+    AbilityIndex = 2
+    Item = LUMBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = MILOTIC,50
+    Gender = male
+    Moves = ICEBEAM,COIL,SURF,RECOVER
+    Item = LEFTOVERS
+    IV = 20,20,20,20,20,20
+Pokemon = LUCARIO,50
+    Gender = male
+    Shiny = yes
+    Moves = SWORDSDANCE,METEORMASH,EXTREMESPEED,AURASPHERE
+    Item = LUCARIONITE
+    IV = 20,20,20,20,20,20
+
 #-------------------------------
 [CAMPER,Liam]
 LoseText = "A very good battle, indeed!"
