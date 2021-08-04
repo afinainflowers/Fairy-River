@@ -7,8 +7,8 @@ Pokemon = GOLDEEN,13
 #-------------------------------
 [YOUNGSTER,Ken]
 LoseText = "Aww, I lost."
-Pokemon = RATTATA,8
-Pokemon = EKANS,10
+Pokemon = RATTATA,9
+Pokemon = EKANS,9
 #-------------------------------
 [PICNICKER,Suzie]
 LoseText = "Defeated! Oh my!"
