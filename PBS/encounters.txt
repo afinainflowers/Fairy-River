@@ -278,5 +278,16 @@ GoodRod
     10,SURSKIT,12,14
     50,DHELMISE,8,18
     40,CORSOLA_1,10,18
+#-------------------------------
+[084] # Challenge Woods
+Land,21
+    15,UNOWN,10,20
+    15,PONYTA_1,12,21
+    15,GIRAFARIG,12,21
+    15,INDEEDEE,12,21
+    15,MORELULL,12,21
+    10,FLAPPLE,12,21
+    10,APPLETUN,12,21
+    5,APPLETUN,12,21
 
 
