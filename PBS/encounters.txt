@@ -289,5 +289,20 @@ Land,21
     10,FLAPPLE,12,21
     10,APPLETUN,12,21
     5,APPLETUN,12,21
+#-------------------------------
+[085] # Fairy Spring
+Land,21
+    30,AZUMARILL,20,30
+    30,KIRLIA,20,30
+    30,WHIMSICOTT,20,30
+    10,AZURILL,20,30
+OldRod
+    50,BRIONNE,20,30
+    40,LANTURN,30
+    10,MANTINE,20,30
+GoodRod
+    10,PRINPLUP,20,30
+    10,FROGADIER,20,30
+    80,LOMBRE,20,30
 
 
