@@ -62,8 +62,8 @@ Height = 1.4
 Weight = 40.5
 Pokedex = Its legs have become poison stingers. It stabs its prey repeatedly with the stingers on its limbs, dealing the final blow with the stinger on its rear.
 Generation = 6
-BattlerPlayerY = 19
-BattlerEnemyY = 15
+BattlerPlayerY = 8
+BattlerEnemyY = 3
 #-------------------------------
 [PIDGEOT,1]
 FormName = Mega Pidgeot
@@ -1144,8 +1144,8 @@ Abilities = PIXILATE
 HiddenAbility = PIXILATE
 Height = 1.5
 Generation = 6
-BattlerPlayerY = 9
-BattlerEnemyY = 6
+BattlerPlayerY = 8
+BattlerEnemyY = 2
 #-------------------------------
 [CASTFORM,1]
 FormName = Sunny Form
@@ -1812,60 +1812,98 @@ BattlerEnemyY = 15
 #-------------------------------
 [VIVILLON,1]
 FormName = Archipelago Pattern
+BattlerPlayerY = 11
+BattlerEnemyY = 8
 #-------------------------------
 [VIVILLON,2]
 FormName = Continental Pattern
+BattlerPlayerY = 22
+BattlerEnemyY = 19
 #-------------------------------
 [VIVILLON,3]
 FormName = Elegant Pattern
+BattlerPlayerY = 22
+BattlerEnemyY = 19
 #-------------------------------
 [VIVILLON,4]
 FormName = Garden Pattern
+BattlerPlayerY = 22
+BattlerEnemyY = 19
 #-------------------------------
 [VIVILLON,5]
 FormName = High Plains Pattern
+BattlerPlayerY = 22
+BattlerEnemyY = 19
 #-------------------------------
 [VIVILLON,6]
 FormName = Icy Snow Pattern
+BattlerPlayerY = 22
+BattlerEnemyY = 19
 #-------------------------------
 [VIVILLON,7]
 FormName = Jungle Pattern
+BattlerPlayerY = 22
+BattlerEnemyY = 19
 #-------------------------------
 [VIVILLON,8]
 FormName = Marine Pattern
+BattlerPlayerY = 22
+BattlerEnemyY = 19
 #-------------------------------
 [VIVILLON,9]
 FormName = Modern Pattern
+BattlerPlayerY = 22
+BattlerEnemyY = 19
 #-------------------------------
 [VIVILLON,10]
 FormName = Monsoon Pattern
+BattlerPlayerY = 8
+BattlerEnemyY = 7
 #-------------------------------
 [VIVILLON,11]
 FormName = Ocean Pattern
+BattlerPlayerY = 8
+BattlerEnemyY = 9
 #-------------------------------
 [VIVILLON,12]
 FormName = Polar Pattern
+BattlerPlayerY = 22
+BattlerEnemyY = 19
 #-------------------------------
 [VIVILLON,13]
 FormName = River Pattern
+BattlerPlayerY = 22
+BattlerEnemyY = 19
 #-------------------------------
 [VIVILLON,14]
 FormName = Sandstorm Pattern
+BattlerPlayerY = 22
+BattlerEnemyY = 19
 #-------------------------------
 [VIVILLON,15]
 FormName = Savanna Pattern
+BattlerPlayerY = 22
+BattlerEnemyY = 19
 #-------------------------------
 [VIVILLON,16]
 FormName = Sun Pattern
+BattlerPlayerY = 22
+BattlerEnemyY = 19
 #-------------------------------
 [VIVILLON,17]
 FormName = Tundra Pattern
+BattlerPlayerY = 22
+BattlerEnemyY = 19
 #-------------------------------
 [VIVILLON,18]
 FormName = Fancy Pattern
+BattlerPlayerY = 22
+BattlerEnemyY = 19
 #-------------------------------
 [VIVILLON,19]
 FormName = Poké Ball Pattern
+BattlerPlayerY = 22
+BattlerEnemyY = 19
 #-------------------------------
 [FLABEBE,1]
 FormName = Yellow Flower
@@ -2219,8 +2257,8 @@ EffortPoints = 0,1,0,0,1,0
 Weight = 0.3
 Color = Red
 Pokedex = If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.
-BattlerPlayerY = 48
-BattlerEnemyY = 36
+BattlerPlayerY = 31
+BattlerEnemyY = 11
 #-------------------------------
 [MINIOR,8]
 FormName = Orange Core
@@ -2229,8 +2267,8 @@ EffortPoints = 0,1,0,0,1,0
 Weight = 0.3
 Color = Red
 Pokedex = If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.
-BattlerPlayerY = 48
-BattlerEnemyY = 36
+BattlerPlayerY = 27
+BattlerEnemyY = 12
 #-------------------------------
 [MINIOR,9]
 FormName = Yellow Core
@@ -2239,8 +2277,8 @@ EffortPoints = 0,1,0,0,1,0
 Weight = 0.3
 Color = Yellow
 Pokedex = If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.
-BattlerPlayerY = 48
-BattlerEnemyY = 36
+BattlerPlayerY = 29
+BattlerEnemyY = 10
 #-------------------------------
 [MINIOR,10]
 FormName = Green Core
@@ -2249,8 +2287,8 @@ EffortPoints = 0,1,0,0,1,0
 Weight = 0.3
 Color = Green
 Pokedex = If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.
-BattlerPlayerY = 48
-BattlerEnemyY = 36
+BattlerPlayerY = 27
+BattlerEnemyY = 20
 #-------------------------------
 [MINIOR,11]
 FormName = Blue Core
@@ -2259,8 +2297,8 @@ EffortPoints = 0,1,0,0,1,0
 Weight = 0.3
 Color = Blue
 Pokedex = If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.
-BattlerPlayerY = 48
-BattlerEnemyY = 36
+BattlerPlayerY = 30
+BattlerEnemyY = 16
 #-------------------------------
 [MINIOR,12]
 FormName = Indigo Core
@@ -2269,8 +2307,7 @@ EffortPoints = 0,1,0,0,1,0
 Weight = 0.3
 Color = Blue
 Pokedex = If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.
-BattlerPlayerY = 48
-BattlerEnemyY = 36
+BattlerPlayerY = 29
 #-------------------------------
 [MINIOR,13]
 FormName = Violet Core
@@ -2279,8 +2316,8 @@ EffortPoints = 0,1,0,0,1,0
 Weight = 0.3
 Color = Purple
 Pokedex = If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.
-BattlerPlayerY = 48
-BattlerEnemyY = 36
+BattlerPlayerY = 31
+BattlerEnemyY = 13
 #-------------------------------
 [MIMIKYU,1]
 FormName = Busted Form
@@ -2552,6 +2589,7 @@ FormName = Ribbon - Rainbow Swirl
 [SINISTEA,1]
 FormName = Antique Form
 Pokedex = It absorbs the life-force of those who drink it. It waits patiently, but opportunities are fleeting. It tastes so bad that it gets spat out immediately.
+BattlerEnemyY = 17
 Evolutions = POLTEAGEIST,Item,CHIPPEDPOT
 #-------------------------------
 [POLTEAGEIST,1]
