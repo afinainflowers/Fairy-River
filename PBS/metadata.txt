@@ -399,7 +399,7 @@ Environment = Grass
 Outdoor = true
 ShowArea = true
 Bicycle = true
-Weather = Sun,10
+Weather = Rain,10
 MapPosition = 0,18,16
 #-------------------------------
 [083]
@@ -409,7 +409,7 @@ ShowArea = true
 Bicycle = true
 Weather = Fog,10
 MapPosition = 0,21,15
-SnapEdges = true
+SnapEdges = false
 Environment = Forest
 #-------------------------------
 [084]
