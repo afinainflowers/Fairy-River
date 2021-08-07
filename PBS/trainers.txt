@@ -84,6 +84,25 @@ Items = LEMONADE
 LoseText = "Did I just lose? Ouch, my pride..."
 Pokemon = CUBONE,16
 Pokemon = SCRAGGY,16
+#-------------------------------
+[BIRDKEEPER,Alph]
+Items = FRESHWATER
+LoseText = "Ouch, aren't you powerful..."
+Pokemon = UNOWN,16
+Pokemon = SOLROCK,14
+Pokemon = RUFFLET,16
+Pokemon = PIDOVE,16
+#-------------------------------
+[SCIENTIST,Aster]
+LoseText = "Evidence might suggest that my team needs more training..."
+Pokemon = INDEEDEE_1,16
+    Moves = ATTRACT,PSYCHIC,REFLECT,LIGHTSCREEN
+Pokemon = PORYGON,16
+    Item = LUMBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = MAGNEMITE,16
+    Moves = SWIFT,FLASHCANNON,THUNDERBOLT,THUNDERWAVE
+Pokemon = ARON,16
 
 
 #-------------------------------
@@ -213,30 +232,3 @@ Pokemon = MARSHTOMP,19
 LoseText = "Washed out!"
 Pokemon = STARYU,15
 Pokemon = GOLDEEN,11
-#-------------------------------
-[RIVAL1,Blue]
-LoseText = "Not too shabby."
-Pokemon = PIDGEOTTO,17
-Pokemon = RATTATA,15
-Pokemon = BULBASAUR,18
-#-------------------------------
-[RIVAL1,Blue,1]
-LoseText = "Not too shabby."
-Pokemon = PIDGEOTTO,17
-Pokemon = RATTATA,15
-Pokemon = CHARMANDER,18
-#-------------------------------
-[RIVAL1,Blue,2]
-LoseText = "Not too shabby."
-Pokemon = PIDGEOTTO,17
-Pokemon = RATTATA,15
-Pokemon = SQUIRTLE,18
-#-------------------------------
-[CHAMPION,Blue]
-LoseText = "A good battle indeed!"
-Pokemon = VENUSAUR,63
-    Item = SITRUSBERRY
-Pokemon = CHARIZARD,63
-    Item = SITRUSBERRY
-Pokemon = BLASTOISE,63
-    Item = SITRUSBERRY
