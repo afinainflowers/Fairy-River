@@ -96,13 +96,25 @@ Pokemon = PIDOVE,16
 [SCIENTIST,Aster]
 LoseText = "Evidence might suggest that my team needs more training..."
 Pokemon = INDEEDEE_1,16
+    Gender = female
     Moves = ATTRACT,PSYCHIC,REFLECT,LIGHTSCREEN
 Pokemon = PORYGON,16
-    Item = LUMBERRY
     IV = 20,20,20,20,20,20
+    Item = LUMBERRY
 Pokemon = MAGNEMITE,16
     Moves = SWIFT,FLASHCANNON,THUNDERBOLT,THUNDERWAVE
+    Shiny = yes
 Pokemon = ARON,16
+#-------------------------------
+[POKEMONBREEDER,Mary]
+Items = FRESHWATER
+LoseText = "Your nurture still beats by nature. Sigh."
+Pokemon = MAREEP,14
+    IV = 20,20,20,20,20,20
+Pokemon = SUNFLORA,18
+    IV = 30,30,30,30,30,30
+Pokemon = SKIDDO,20
+    IV = 30,30,30,30,30,30
 
 
 #-------------------------------
