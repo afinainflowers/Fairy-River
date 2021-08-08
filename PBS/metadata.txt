@@ -248,6 +248,7 @@ ShowArea = true
 Bicycle = true
 HealingSpot = 48,22,18
 MapPosition = 0,15,8
+MapSize = 1,1
 #-------------------------------
 [049]
 Bicycle = true
@@ -407,6 +408,7 @@ MapPosition = 0,18,16
 Outdoor = true
 ShowArea = true
 Bicycle = true
+HealingSpot = 83,29,13
 Weather = Fog,10
 MapPosition = 0,21,15
 SnapEdges = false
@@ -426,5 +428,6 @@ Environment = Forest
 Outdoor = true
 ShowArea = true
 Bicycle = true
+HealingSpot = 85,20,33
 MapPosition = 0,22,5
-SnapEdges = true
+SnapEdges = false

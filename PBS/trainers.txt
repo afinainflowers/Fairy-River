@@ -101,9 +101,9 @@ Pokemon = INDEEDEE_1,16
 Pokemon = PORYGON,16
     IV = 20,20,20,20,20,20
     Item = LUMBERRY
+    Shiny = yes
 Pokemon = MAGNEMITE,16
     Moves = SWIFT,FLASHCANNON,THUNDERBOLT,THUNDERWAVE
-    Shiny = yes
 Pokemon = ARON,16
 #-------------------------------
 [POKEMONBREEDER,Mary]
@@ -115,6 +115,71 @@ Pokemon = SUNFLORA,18
     IV = 30,30,30,30,30,30
 Pokemon = SKIDDO,20
     IV = 30,30,30,30,30,30
+#-------------------------------
+[SCIENTIST,Martin]
+LoseText = "Evidence might suggest that my team needs more training..."
+Pokemon = SOLOSIS,16
+    AbilityIndex = 1
+    Item = QUICKCLAW
+    Moves = PSYSHOCK,RECOVER,THUNDERWAVE,THUNDERWAVE
+Pokemon = PORYGON,16
+    IV = 20,20,20,20,20,20
+    Shiny = no
+Pokemon = CLEFABLE,16
+    Moves = MOONBLAST,METRONOME,HIDDENPOWER,SIGNALBEAM
+#-------------------------------
+[AROMALADY,Veronika]
+LoseText = "I will try not to worry about it."
+Pokemon = BOUNSWEET,17
+Pokemon = CHERUBI,20
+Pokemon = ALCREMIE,17
+    Moves = SAFEGUARD,SWEETSCENT,AROMATICMIST,DRAININGKISS
+#-------------------------------
+[PSYCHIC_F,Anastasia]
+LoseText = "Tsk."
+Pokemon = INKAY,15
+    Moves = PSYCHOCUT,KNOCKOFF,LIQUIDATION,ATTRACT
+Pokemon = DROWZEE,17
+Pokemon = ESPEON,20
+Pokemon = BELDUM,19
+    Moves = IRONDEFENSE,IRONHEAD,STEELBEAM,ZENHEADBUTT
+#-------------------------------
+[CRUSHGIRL,Kate]
+LoseText = "Time for a break."
+Pokemon = MAKUHITA,16
+Pokemon = HAWLUCHA,14
+Pokemon = STUFFUL,15
+#-------------------------------
+[RIVAL1,Carn,3]
+LoseText = "Not too shabby."
+Pokemon = RATICATE,20
+    Moves = QUICKATTACK,BITE,HYPERFANG,ZENHEADBUTT
+Pokemon = SWADLOON,24
+    Moves = RAZORLEAF,STRUGGLEBUG,GIGADRAIN,SAFEGUARD
+    Item = SITRUSBERRY
+Pokemon = PIDGEOTTO,20
+    Item = SHARPBEAK
+Pokemon = FLAAFFY,20
+    Item = FOCUSBAND
+Pokemon = HOUNDOOM,16
+#-------------------------------
+[RIVAL1,Carn,4]
+Pokemon = RATICATE,20
+    Moves = QUICKATTACK,BITE,HYPERFANG,ZENHEADBUTT
+Pokemon = SWADLOON,24
+    Moves = RAZORLEAF,STRUGGLEBUG,GIGADRAIN,SAFEGUARD
+    Item = SITRUSBERRY
+Pokemon = PIDGEOTTO,20
+    Item = SHARPBEAK
+Pokemon = LUXIO,20
+    Item = FOCUSBAND
+Pokemon = HOUNDOOM,16
+#-------------------------------
+[CHANELLER,Maria]
+LoseText = "We lost again..."
+Pokemon = PHANTUMP,20
+Pokemon = DRIFLOON,20
+Pokemon = MIMIKYU,20
 
 
 #-------------------------------
