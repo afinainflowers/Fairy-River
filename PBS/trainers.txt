@@ -180,39 +180,77 @@ LoseText = "We lost again..."
 Pokemon = PHANTUMP,20
 Pokemon = DRIFLOON,20
 Pokemon = MIMIKYU,20
+#-------------------------------
+[ACETRAINER,Leonardo]
+LoseText = "How is that possible?"
+Items = LEMONADE,LEMONADE
+Pokemon = FERROSEED,25
+    Item = FOCUSSASH
+Pokemon = HONEDGE,24
+    Item = FOCUSBAND
+Pokemon = MAWILE,26
+    Moves = SUCKERPUNCH,CRUNCH,IRONHEAD,THUNDERFANG
+    Item = QUICKCLAW
+    IV = 20,20,20,20,20,20
+Pokemon = METANG,27
+    Item = QUICKCLAW
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[PSYCHIC_M,Martin]
+LoseText = "Why..."
+Pokemon = INKAY,25
+    Item = FOCUSBAND
+    Moves = PSYCHOCUT,KNOCKOFF,LIQUIDATION,ATTRACT
+Pokemon = PONYTA_1,26
+    Item = FOCUSBAND
+    Moves = IRONDEFENSE,IRONHEAD,STEELBEAM,ZENHEADBUTT
+#-------------------------------
+[LEADER_Sabrina,Valentina]
+LoseText = "..."
+Items = LEMONADE,LEMONADE
+Pokemon = INDEEDEE,27
+    Item = FOCUSBAND
+Pokemon = ESPEON,28
+    Item = FOCUSBAND
+Pokemon = KIRLIA,26
+    Item = FOCUSBAND
+    Moves = DAZZLINGGLEAM,PSYBEAM,ECHOEDVOICE,TELEPORT
+Pokemon = STARMIE,27
+    Item = FOCUSBAND
+    Moves = PSYBEAM,POWERGEM,HYDROPUMP,TRIATTACK
 
 
 #-------------------------------
 [AURA_GUARDIAN,Silvester]
 ITEMS = FULLRESTORE,FULLRESTORE
 LoseText = "Congratulations!"
-Pokemon = DRAGAPULT,50
+Pokemon = DRAGAPULT,25
     Moves = THUNDER,SHADOWBALL,DRACOMETEOR,DRAGONDANCE
     Item = AGUAVBERRY
     IV = 20,20,20,20,20,20
-Pokemon = UMBREON,50
+Pokemon = UMBREON,20
     Gender = male
     Shiny = yes
     Moves = TOXIC,MOONLIGHT,DARKPULSE,SHADOWBALL
     Item = LEFTOVERS
     IV = 20,20,20,20,20,20
-Pokemon = MANECTRIC,50
+Pokemon = MANECTRIC,30
     Gender = male
     Moves = VOLTSWITCH,OVERHEAT,HIDDENPOWER,THUNDERBOLT
     Item = LIFEORB
     IV = 20,20,20,20,20,20
-Pokemon = SALAMENCE,50
+Pokemon = SALAMENCE,25
     Gender = male
     Moves = DRAGONDANCE,OUTRAGE,FIREBLAST,AIRSLASH
     AbilityIndex = 2
     Item = LUMBERRY
     IV = 20,20,20,20,20,20
-Pokemon = MILOTIC,50
+Pokemon = MILOTIC,25
     Gender = male
     Moves = ICEBEAM,COIL,SURF,RECOVER
     Item = LEFTOVERS
     IV = 20,20,20,20,20,20
-Pokemon = LUCARIO,50
+Pokemon = LUCARIO,30
     Gender = male
     Shiny = yes
     Moves = SWORDSDANCE,METEORMASH,EXTREMESPEED,AURASPHERE

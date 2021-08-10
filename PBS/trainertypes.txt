@@ -64,7 +64,7 @@
 61,LEADER_Surge,Gym Leader,100,Battle Gym Leader,Battle victory leader,,Male,,
 62,LEADER_Erika,Gym Leader,100,Battle Gym Leader,Battle victory leader,,Female,,
 63,LEADER_Koga,Gym Leader,100,Battle Gym Leader,Battle victory leader,,Male,,
-64,LEADER_Sabrina,Gym Leader,100,Battle Gym Leader,Battle victory leader,,Female,,
+64,LEADER_Sabrina,Psychic Leader,100,Battle Gym Leader,Battle victory leader,,Female,,
 65,LEADER_Blaine,Gym Leader,100,Battle Gym Leader,Battle victory leader,,Male,,
 66,LEADER_Giovanni,Gym Leader,100,Battle Gym Leader,Battle victory leader,,Male,,
 67,ELITEFOUR_Lorelei,Elite Four,100,Battle Elite,Battle victory leader,,Female,,

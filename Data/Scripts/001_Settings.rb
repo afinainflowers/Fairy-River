@@ -71,8 +71,8 @@ module Settings
   # number. If the variable isn't set to 0, then all trainers with the
   # associated trainer type will be named as whatever is in that variable.
   RIVAL_NAMES = [
-    [:RIVAL1,   12],
-    [:RIVAL2,   12],
+    [:RIVAL1, 12],
+    [:RIVAL2, 12],
     [:CHAMPION, 12]
   ]
 
